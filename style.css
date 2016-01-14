@@ -1,0 +1,22 @@
+body {
+    background-color: azure;
+}
+
+h1, h2, h3, h4, p {
+    text-align: center;
+    color: deepskyblue
+}
+
+h1 {
+    font-size: 5em;
+    font-family: 'Indie Flower', cursive;
+    font-weight: 900;
+    margin-top: 25%;
+    margin-bottom: 0;
+}
+
+p {
+    font-size: 1.75em;
+    margin-top: 6px;
+}
+
